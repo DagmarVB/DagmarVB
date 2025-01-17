@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DagmarVB
+- 🌱 I’m currently learning Java Programming
+- 😄 Pronouns: she/her
